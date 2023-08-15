@@ -41,4 +41,5 @@
     - Когда вы будете выполнять ячейку с **drive.mount** Google вас будет спрашивать авторизацию и разрешение на разные действия:
     ![](https://drive.google.com/uc?id=1E8h2Etm-5VEx4lcQPl2sZyQ2Pyx9duDo)
     ![](https://drive.google.com/uc?id=1R0N49K1OkddZm1scdyYcqZ32v3cvYt3-)
+
       Не переживайте, это нормально, к сожалению, это придется делать каждый раз в каждом Notebook, где вы встретитесь с этой ячейкой кода.
